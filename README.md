@@ -28,7 +28,7 @@
 
 ## 研究与分析 (Research & Analysis)
 
-* **[Ollama Deep Researcher]([github](https://github.com/langchain-ai/ollama-deep-researcher))** - 给 R1 一个主题，观察它搜索网络、学习、反思、搜索更多内容。
+* **[Ollama Deep Researcher](https://github.com/langchain-ai/ollama-deep-researcher)** - 给 R1 一个主题，观察它搜索网络、学习、反思、搜索更多内容。
 它会自动重复此过程， 想让它研究多久，它就研究多久。最后它会给出一份研究彻底的报告，报告附有它看过的所有信息来源。
 
 ## 个人助手与效率工具 (Personal Assistants & Productivity Tools)
