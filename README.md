@@ -54,3 +54,8 @@
 ---
 
 **希望这个 Awesome 列表能够帮助大家更好地了解和应用大型推理模型！**
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HQ-Zhang-233/awesome-LRM--use-case&type=Date)](https://star-history.com/#HQ-Zhang-233/awesome-LRM--use-case&Date)
