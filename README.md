@@ -58,4 +58,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HQ-Zhang-233/awesome-LRM--use-case&type=Date)](https://star-history.com/#HQ-Zhang-233/awesome-LRM--use-case&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HQ-Zhang-233/awesome-LRM-use-case&type=Date)](https://star-history.com/#HQ-Zhang-233/awesome-LRM-use-case&Date)
